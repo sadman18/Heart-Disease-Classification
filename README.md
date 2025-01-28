@@ -1,5 +1,3 @@
-# Heart-Disease-Classification
-
 # Heart Disease Classification Problem
 
 This project is about solving a heart disease classification problem using machine learning. The goal was to predict whether a person has heart disease based on various health-related features.
