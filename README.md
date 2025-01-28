@@ -44,7 +44,7 @@ This project is about solving a heart disease classification problem using machi
 ## Results
 - Best Model: [Model Name, e.g., Logistic Regression]
 - Accuracy: [ 85%]
-- AUC-ROC Score: [0.90]
+- AUC-ROC Score: [0.93]
 - Key Insights:
   - Features like cholesterol, age, and blood pressure were significant predictors.
 
